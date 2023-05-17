@@ -46,7 +46,7 @@
 <!--                    <span class="info-box-icon"><i class="far fa-bookmark"></i></span>-->
 
                     <div class="info-box-content">
-                        <span class="info-box-text">온도</span>
+                        <span class="info-box-text">온도 a</span>
                         <span class="info-box-number"><?php echo $row1['data1'];?> °C</span>
 
                         <div class="progress">
